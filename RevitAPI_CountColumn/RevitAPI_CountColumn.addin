@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPI_CountColumn.dll"</Assembly>
+    <AddInId>AD2F19EE-3233-4275-ACA5-71DAC28F37B3</AddInId>
+    <FullClassName>RevitAPI_CountColumn.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Подсчет количества колонн</Text>
+  </AddIn>
+</RevitAddIns>

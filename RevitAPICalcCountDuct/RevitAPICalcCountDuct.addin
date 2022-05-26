@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\RevitAPITrainig\RevitAPICalcCountDuct.dll"</Assembly>
+    <AddInId>0A7487F2-5135-4B74-85AB-F9C5527CE447</AddInId>
+    <FullClassName>RevitAPICalcCountDuct.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Подсчет количества воздуховодов</Text>
+  </AddIn>
+</RevitAddIns>
